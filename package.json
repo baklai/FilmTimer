@@ -1,0 +1,22 @@
+{
+  "name": "filmtimer",
+  "version": "1.0.0",
+  "description": "FilmTimer - Таймер выключения компьютера",
+  "main": "FilmTimer.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/FilmTimer.git"
+  },
+  "keywords": [
+    "Delphi"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/FilmTimer/issues"
+  },
+  "homepage": "https://github.com/baklai/FilmTimer#readme"
+}
